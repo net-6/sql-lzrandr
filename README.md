@@ -1,5 +1,5 @@
 # net-6-sql
-1. Create a database
+1. Create a database with the name of your choice
 2. Create a table called Director with following columns: FirstName, LastName, Nationality and Birth date. Insert 5 rows into it.
 3. Delete the director with id = 3
 4. Create a table called Movie with following columns: DirectorId, Title, ReleaseDate, Rating and Duration. Each movie has a director. Insert some rows into it
